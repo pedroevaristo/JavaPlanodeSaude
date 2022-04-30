@@ -1,0 +1,12 @@
+Mas o que precisa para liberar o plano de saude, para realizar mais procedimentos.
+
+A autorização do plano de saude é uma forma de controlar o uso ou da demanda de serviços da operadora
+de saúde. A necessidade de fazer isso é devido a inclusão na realização de procedimentos cirúgicos
+( exames e processos de alta complexidade). Com isso gerenciar a utilização dos seus serviços( desde 
+direcionar exames, internações e consultas. E também a co-operação, paga uma parcela da despesa).
+_________________________________
+-- Os motivos reais:
+	- Controle na demanda e o uso dos serviços prestados;
+	- autorização de forma prévia(antes da realização do pagamento):
+	 evitar uma sobrecarga e desperdício dos serviços.
+

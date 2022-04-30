@@ -1,0 +1,26 @@
+Escolha as consultas amanhã e os dias seguintes(no mes de Julho) que gostaria de fazer:
+
+
+Dermatologistas:
+
+1. Maria	| Horário disponivel: 8:00 P.M| AMANHA;
+2. Carlos 	| Horario disponivel: 8:00 A.M| AMANHA;
+
+Cardiologistas:
+
+3. Miguel 	| Horario disponivel: 9:00 A.M|Dia 09/07;
+
+
+Cirurgiões:
+
+4. Vitoria	| Horario disponivel: 7:00 A.M|Dia 09/07;
+
+
+Clínico Geral:
+
+5. Marcela	| Horario disponivel: 7:00 A.M|AMANHA;
+
+
+Infectologia:
+
+6. Alice	| Horario disponivel: 7:00 P.M |Dia 07/07;
